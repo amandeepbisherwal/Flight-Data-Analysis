@@ -7,6 +7,7 @@
 - Read Data - Read data from source.
 - Data processing - Check data information for data summary.
 - Data visualization - Plot the Variables.
+
 PROJECT INSIGHTS
 1. Performed data cleaning and manipulation.
 2. Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries.
